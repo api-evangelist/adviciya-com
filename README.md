@@ -66,7 +66,7 @@
 
 Adviciya is a digital transformation company at Infopark, Kochi, Kerala, India, offering mobile app development, website development, custom software development and digital marketing, including SEO, AEO and GEO.
 
-**Areas:** Digital Transformation · Software Development · Mobile Apps · Web Development · Marketing
+**Areas:** Digital Transformation · Software Development · Mobile App · Web Development · Marketing
 
 ## Adviciya on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adviciya Com Domain Security](https://apis.io/security/adviciya-com/adviciya-com-domain-security/)
+- [Adviciya Domain Security](https://apis.io/security/adviciya-com/adviciya-com-domain-security/)
 
 ## Where to find this API
 
@@ -95,25 +95,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.2** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 14.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 16.7 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -121,7 +121,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -132,8 +132,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adviciya-com/](https://apis.io/providers/adviciya-com/).
 
